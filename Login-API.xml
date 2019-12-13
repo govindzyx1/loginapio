@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Login-API">
+    <Basepaths>/login</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1526378412399</CreatedAt>
+    <CreatedBy>anilsr@google.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Login-API</DisplayName>
+    <LastModifiedAt>1526383965057</LastModifiedAt>
+    <LastModifiedBy>anilsr@google.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:30c0d6959f3cd013fdf52678b209e52c819d1d471534e1c0708e413eebcb64465f455a6a211b94ced1f4aed15173639cf6bc7b4176af69d895e82c3e9b2e3739</ManifestVersion>
+    <Policies>
+        <Policy>BA-Decode</Policy>
+        <Policy>RF-InvalidCredentials</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

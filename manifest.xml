@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="BA-Decode" version="SHA-512:d0a826de1e850704f8d026602aaef1e32bc8dfae8eddc1c604546266f8519f091c81d30112488a89607b34acf37ca38ba82ad808119bb610872fae485573a50a"/>
+        <VersionInfo resourceName="RF-InvalidCredentials" version="SHA-512:324b36fc8868804efaf9f2f386fb7c64190a4bf67afc1c1feee3304af24fcc6aa102a4ff3b3e9ff6463f55e5054972a07ebdc6af43acc749d4877eb2f9c590ee"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:e21e0a6e9403c909bfc18c756c34fb0f4e6282a85338da142319defc74be1692e39ea11446a059b3b8a49b23c24558b85d55bf3e928d11dffc50ec43791fef3d"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
